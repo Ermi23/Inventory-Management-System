@@ -1,0 +1,29 @@
+Functional point of the system.
+
+1.	User Authentication:
+		The system should allow users to log in with unique usernames and passwords.
+		Different user roles (Staff, Manager, Customer) should have access to different functionalities.
+2.	Inventory Management:
+		Add new items to the inventory with details such as item name, quantity, unit price, and other information.
+		Update existing inventory items to reflect changes in quantity, prices, or oter details.
+		Remove items from inventory when they are no longer available or have been sold.
+		Generate alerts for low stock levels to prompt reordering of inventory items.
+3.	Order Processing:
+		Allow customers to place orders through the system, specifying the desired items and quantities.
+		Automatically update inventory levels upon order placement to reflect the items reserved for the order.
+		Enable staff to view and manage incoming orders, including order status updates and delivery scheduling.
+		Generate invoices for orders and provide options for payment processing.
+5.	Customer Relationship Management (CRM):
+		Maintain customer profiles with contact information, order history, preferences, and feedback.
+		Enable communication channels for customers to inquire about orders, provide feedback, and request assistance.
+6.	Reporting and Analytics:
+		Generate reports on inventory levels, sales performance, order fulfillment rates, and customer satisfaction.
+		Provide insights and analytics to identify trends, patterns, and areas for improvement in bakery operations.
+		Support custom report generation and data visualization to facilitate decision-making for bakery managers.
+7.	System Administration:
+		Allow system administrators to manage user accounts, permissions, and access levels.
+		Ensure system security through measures such as data encryption, user authentication, and access control.
+
+for staf role use iyanya@gmail.com password = password
+for customer role use rugar@gmail.com password = password
+for Manager (System Administration) role use aman@gmail.com password = password.
